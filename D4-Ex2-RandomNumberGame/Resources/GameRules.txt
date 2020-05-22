@@ -1,0 +1,17 @@
+This is simple bet game written as one of the .NET/C# BootCamp exercise.
+
+Rules:
+1. Player must set his name and money amount.
+2. Player is expected to bet on 3 numbers.
+3. Every time when [SPIN] button is pressed, computer draw six numbers from 1-25 range.
+4. When all three playes's bet numbers are among the drewn numbers, players gets his bet doubled.
+5. When player hit two numbers, he gets an extra 30% of his initial bet as a reward.
+6. In case one matching number or none, player loses his bet.
+7. Player is allowed to add money to his wallet at any time between draw.
+8. Player is allowed to resign his game at any time except draw time.
+9. After resign the player's name may or may not hit on the Hall of Fame list.
+
+Additional Info:
+It's a MVC WinForms application. At least that was the author's intention. 
+Feel free to leave feedback or take somthing from it if you find it useful.
+Ohh, and sorry for my english, not my native language (unfortunately).
